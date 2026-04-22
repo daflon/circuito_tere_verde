@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 *.pyo
+*.egg-info/
 
 # Node
 node_modules/
@@ -10,7 +11,7 @@ frontend/dist/
 # Build artifacts
 backend/staticfiles/
 
-# Database (will be created on Render)
+# Database
 backend/db.sqlite3
 
 # Media uploads
