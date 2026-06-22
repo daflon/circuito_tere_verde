@@ -124,7 +124,6 @@ O MVP do Circuito Terê Verde consiste em uma plataforma funcional que permite a
 │   │   ├── data/           → Mapeamento de imagens
 │   │   └── pages/          → Home, Trilhas, Mapa, Eventos, Bio, Educação, Login
 │   └── public/             → PWA manifest, service worker, ícones
-├── mobile/                 → Scaffold React Native + Expo (futuro)
 ├── docs/                   → Documentação técnica
 ├── build.sh                → Script de build para deploy
 └── render.yaml             → Configuração do Render
